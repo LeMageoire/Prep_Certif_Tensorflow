@@ -1,15 +1,45 @@
 # Weblinks
-https://www.tensorflow.org/api_docs/python/tf/all_symbols
-https://www.tensorflow.org/tutorials
-https://www.tensorflow.org/guide/keras
-https://www.tensorflow.org/resources/models-datasets
+- https://www.tensorflow.org/api_docs/python/tf/all_symbols
+- https://www.tensorflow.org/tutorials
+- https://www.tensorflow.org/guide/keras
+- https://www.tensorflow.org/resources/models-datasets
 - https://www.tensorflow.org/mlir
+
+# Tensorflow Ressources
+## Book
+	- https://www.oreilly.com/library/view/ai-and-machine/9781492078180/
+## Book 
+	- https://www.manning.com/books/deep-learning-with-python-second-edition
+## Book 
+	- https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ 
+## Book
+	- https://www.deeplearningbook.org/
+## Book
+	- https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/
+## Book
+	- http://neuralnetworksanddeeplearning.com/
+## Machine learning Crash-Course
+	- https://developers.google.com/machine-learning/crash-course
+## Udacity course
+	- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+## MIT Intro to deep learning
+	- http://introtodeeplearning.com/
+## Books Intro to statistical learning
+	- https://www.statlearning.com/
+## Machine Learning Foundations
+	- https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV
+## Coding Tensorflow
+	- https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx
+
+# Youtube videos
+
 # Exam environement
 - pycharm IDE
 - 5 hours
 - Tensorflow Exam plugin
 - You may use whatever learning resources you would normally use during your ML development
 work.
+
 
 # Candidate Handbook
 ## 1
